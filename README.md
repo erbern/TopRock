@@ -37,5 +37,4 @@ Note: AQTYPE U (Unidentified) are not included in this process and will be retur
 
 If you have questions concerning this tool, please contact:
 Nathan Erber
-Phone: 734-308-7919
 email: nathan.r.erber@wmich.edu
